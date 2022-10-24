@@ -1,0 +1,22 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn {
+width: 100%;
+}
+
+
+
+a {
+text-decoration: none;
+}
+
+
+.text-left {
+  float: left;
+}
+
+.text-right {
+  float: right;
+}

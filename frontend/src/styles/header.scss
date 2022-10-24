@@ -1,0 +1,27 @@
+.cart {
+    position: relative;
+
+    .cart__btn {
+        position: absolute;
+        width: 20px;
+        height: 20px;
+        border-radius: 50%;
+        border: none;
+        top: 0px;
+        right: 0px;
+        background-color: rgb(234, 9, 144);
+        color: #fff;
+
+    }
+
+    .cart__icon {
+        z-index: 4;
+        font-size: 32px;
+        color: #fff;
+    }
+}
+
+.brand {
+    color: #fff;
+    font-size: 1.7rem;
+}

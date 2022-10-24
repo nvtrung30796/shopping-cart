@@ -1,0 +1,54 @@
+.row {
+  display: flex;
+  justify-content: space-between;
+}
+
+.item {
+    display: flex;
+    justify-content: space-between;
+    padding-right: 15px;
+    padding-left: 15px;
+
+}
+
+
+.btn__adjust {
+
+    .btn__plus{
+        background-color: rgb(0, 119, 255);
+        border: none;
+        border-radius: 5px;
+        width: 30px;
+        margin-right: 5px;
+        color: #fff;
+        font-size: 1.1rem;
+
+    }
+    .btn__minus{
+        background-color: red;
+        border: none;
+        border-radius: 5px;
+        width: 30px;
+        color: #fff;
+        font-size: 1.1rem;
+
+
+
+    }
+   
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.basket__container {
+    border: 1px solid rgb(227, 220, 220);
+    padding: 10px;
+    padding-right: 13px;
+    border-radius: 5px;
+}
+
+ol {
+    padding: 0;
+}
